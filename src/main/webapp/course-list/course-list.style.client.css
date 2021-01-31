@@ -1,0 +1,21 @@
+.wbdv-sticky-top {
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    z-index: 1;
+}
+
+.wbdv-padding-5px {
+    padding: 5px;
+}
+
+.header-height{
+    line-height: 0px;
+    height: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+    .brand-visibility {
+        display: none;
+    }
+}
